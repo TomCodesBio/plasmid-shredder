@@ -1,11 +1,11 @@
-# 🧬 Plasmid Shredder & Cocktail Optimizer
+# 🧬 Plasmid Shredder & Cocktail Optimiser
 
 **Plasmid Shredder** is an interactive bioinformatics tool designed to automate the search for ideal restriction enzyme cocktails. It helps molecular biologists identify combinations of enzymes (up to 3) that will digest a circular plasmid into fragments within a specific size range, while simultaneously optimizing for buffer compatibility and experimental conditions.
 
 ---
 
 ## 🚀 Live Demo
-You can view and use the app here: **[INSERT YOUR STREAMLIT CLOUD LINK HERE]**
+You can view and use the app here: (https://plasmid-shredder.streamlit.app/)
 
 ---
 
