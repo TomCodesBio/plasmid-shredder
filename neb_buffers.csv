@@ -1,0 +1,268 @@
+Enzyme,,Sequence,Supplied NEBuffer,% Activity in NEBuffer,,,,Heat Inac.,Incu. Temp.,Diluent,Dam,Dcm,CpG,Unit Substrate,Notes
+,,,,r1.1,r2.1,r3.1,rCutSmart,,,,,,,,
+AatII,  ,GACGT/C,rCutSmart™ Buffer,<10,50*,50,100,80°C,37°C,B,,,,? DNA,
+Acc65I,   ,G/GTACC,NEBuffer™ r3.1,10,75*,100,25,65°C,37°C,A,,,,pBC4 DNA,
+AccI,  ,GT/MKAC,rCutSmart™ Buffer,50,50,10,100,80°C,37°C,A,,,,? DNA,
+AciI,  ,CCGC(-3/-1),rCutSmart™ Buffer,<10,25,100,100,65°C,37°C,A,,,,? DNA,
+AclI,  ,AA/CGTT,rCutSmart™ Buffer,<10,<10,<10,100,No,37°C,B,,,,? DNA,
+AcuI,,CTGAAG(16/14),rCutSmart™ Buffer,50,100,50,100,65°C,37°C,B,,,,? DNA,"1, b, d"
+AfeI,,AGC/GCT,rCutSmart™ Buffer,25,100,25,100,65°C,37°C,B,,,,pXba DNA,
+AflII,,C/TTAAG,rCutSmart™ Buffer,50,100,10,100,65°C,37°C,A,,,,?X174 RF I DNA,
+AflIII,,A/CRYGT,NEBuffer™ r3.1,10,50,100,50,80°C,37°C,B,,,,? DNA,
+AgeI-HF®,   ,A/CCGGT,rCutSmart™ Buffer,100,50,10,100,65°C,37°C,A,,,,? DNA,
+AhdI,  ,GACNNN/NNGTC,rCutSmart™ Buffer,25,25,10,100,65°C,37°C,A,,,,? DNA,a
+AleI-v2,  ,CACNN/NNGTG,rCutSmart™ Buffer,<10,<10,<10,100,65°C,37°C,B,,,,? DNA,
+AluI,,AG/CT,rCutSmart™ Buffer,25,100,50,100,80°C,37°C,B,,,,? DNA,b
+AlwI,,GGATC(4/5),rCutSmart™ Buffer,50,50,10,100,No,37°C,A,,,,? DNA (dam-),"1, b, d"
+AlwNI,  ,CAGNNN/CTG,rCutSmart™ Buffer,10,100,50,100,80°C,37°C,A,,,,? DNA,
+ApaI,   ,GGGCC/C,rCutSmart™ Buffer,25,25,<10,100,65°C,37°C,A,,,,pXba DNA,
+ApaLI,  ,G/TGCAC,rCutSmart™ Buffer,100,100,10,100,No,37°C,A,,,,? DNA (HindIII digest),
+ApeKI,  ,G/CWGC,NEBuffer™ r3.1,25,50,100,10,No,75°C,B,,,,? DNA,
+ApoI-HF,  ,R/AATTY,rCutSmart™ Buffer,10,100,10,100,80°C,37°C,B,,,,? DNA,
+AscI,  ,GG/CGCGCC,rCutSmart™ Buffer,<10,10,10,100,80°C,37°C,A,,,,? DNA,
+AseI,,AT/TAAT,NEBuffer™ r3.1,<10,50*,100,10,65°C,37°C,B,,,,? DNA,3
+AsiSI,,GCGAT/CGC,rCutSmart™ Buffer,100,100,25,100,80°C,37°C,B,,,,XhoI digested pXba,"2, b"
+AvaI,  ,C/YCGRG,rCutSmart™ Buffer,<10,100,25,100,80°C,37°C,A,,,,? DNA,
+AvaII,   ,G/GWCC,rCutSmart™ Buffer,50,75,10,100,80°C,37°C,A,,,,? DNA,
+AvrII,,C/CTAGG,rCutSmart™ Buffer,100,50,50,100,No,37°C,B,,,,? DNA (HindIII digest),
+BaeGI,,GKGCM/C,NEBuffer™ r3.1,75,75,100,25,80°C,37°C,A,,,,? DNA,
+BaeI,  ,(10/15)ACNNNNGTAYC(12/7),rCutSmart™ Buffer,50,100,50,100,65°C,37°C,A,,,,? DNA,e
+BamHI §,,G/GATCC,NEBuffer™ r3.1,75*,100*,100,100*,No,37°C,A,,,,? DNA,3
+BamHI-HF®,  ,G/GATCC,rCutSmart™ Buffer,100,50,10,100,No,37°C,A,,,,? DNA,
+BanI,  ,G/GYRCC,rCutSmart™ Buffer,10,25,<10,100,65°C,37°C,A,,,,? DNA,1
+BanII,,GRGCY/C,rCutSmart™ Buffer,100,100,50,100,80°C,37°C,A,,,,? DNA,2
+BbsI §,,GAAGAC(2/6),NEBuffer™ r2.1,100,100,25,75,65°C,37°C,B,,,,? DNA,
+BbsI-HF®,  ,GAAGAC(2/6),rCutSmart™ Buffer,10,10,10,100,65°C,37°C,B,,,,? DNA,
+BbvCI,,CCTCAGC(-5/-2),rCutSmart™ Buffer,10,100,50,100,No,37°C,B,,,,? DNA,"1, a"
+BbvI,,GCAGC(8/12),rCutSmart™ Buffer,100,100,25,100,65°C,37°C,B,,,,pBR322 DNA,3
+BccI,,CCATC(4/5),rCutSmart™ Buffer,100,50,10,100,65°C,37°C,A,,,,pXba DNA,"3, b"
+BceAI,,ACGGC(12/14),NEBuffer™ r3.1,100*,100*,100,100*,65°C,37°C,A,,,,pBR322 DNA,1
+BcgI,  ,(10/12)CGANNNNNNTGC(12/10),NEBuffer™ r3.1,10,75*,100,50*,65°C,37°C,A,,,,? DNA,e
+BciVI,,GTATCC(6/5),rCutSmart™ Buffer,100,25,<10,100,80°C,37°C,C,,,,? DNA,b
+BclI §,  ,T/GATCA,NEBuffer™ r3.1,50,100,100,75,No,37°C,A,,,,? DNA (dam-),
+BclI-HF,   ,T/GATCA,rCutSmart™ Buffer,100,100,10,100,65°C,37°C,B,,,,? DNA (dam-),
+BcoDI,  ,GTCTC(1/5),rCutSmart™ Buffer,50,75,75,100,No,37°C,B,,,,? DNA,
+BfaI,,C/TAG,rCutSmart™ Buffer,<10,10,<10,100,80°C,37°C,B,,,,? DNA,"2, b"
+BfuAI,  ,ACCTGC(4/8),NEBuffer™ r3.1,<10,25,100,10,65°C,50°C,B,,,,? DNA,3
+BglI,  ,GCCNNNN/NGGC,NEBuffer™ r3.1,10,25,100,10,65°C,37°C,B,,,,? DNA,
+BglII,,A/GATCT,NEBuffer™ r3.1,10,10,100,<10,No,37°C,A,,,,? DNA,
+BlpI,,GC/TNAGC,rCutSmart™ Buffer,50,100,10,100,No,37°C,A,,,,? DNA,d
+BmgBI,  ,CACGTC(-3/-3),NEBuffer™ r3.1,<10,10,100,10,65°C,37°C,B,,,,? DNA,"3, b, d"
+BmrI,,ACTGGG(5/4),NEBuffer™ r2.1,75,100,75,100*,65°C,37°C,B,,,,? DNA (HindIII digest),b
+BmtI-HF®,  ,GCTAG/C,rCutSmart™ Buffer,50,100,10,100,65°C,37°C,B,,,,pXba DNA,
+BpmI,,CTGGAG(16/14),NEBuffer™ r3.1,75,100,100,100*,65°C,37°C,B,,,,? DNA,2
+BpuEI,,CTTGAG(16/14),rCutSmart™ Buffer,50*,100,50*,100,65°C,37°C,B,,,,? DNA,d
+Bpu10I,,CCTNAGC(-5/-2),NEBuffer™ r3.1,10,25,100,25,80°C,37°C,B,,,,? DNA,"3, b, d"
+BsaAI,  ,YAC/GTR,rCutSmart™ Buffer,100,100,100,100,No,37°C,C,,,,? DNA,
+BsaBI,  ,GATNN/NNATC,rCutSmart™ Buffer,50,100,75,100,80°C,60°C,B,,,,? DNA (dam-),2
+BsaHI,   ,GR/CGYC,rCutSmart™ Buffer,50,100,100,100,80°C,37°C,C,,,,? DNA,
+BsaI-HF®v2,    ,GGTCTC(1/5),rCutSmart™ Buffer,100,100,100,100,80°C,37°C,B,,,,pXba DNA,
+BsaJI,,C/CNNGG,rCutSmart™ Buffer,50,100,100,100,80°C,60°C,A,,,,? DNA,
+BsaWI,,W/CCGGW,rCutSmart™ Buffer,10,100,50,100,80°C,60°C,A,,,,? DNA,
+BsaXI,,(9/12)ACNNNNNCTCC(10/7),rCutSmart™ Buffer,50*,100*,10,100,No,37°C,C,,,,? DNA,e
+BseRI,,GAGGAG(10/8),rCutSmart™ Buffer,100,100,75,100,80°C,37°C,A,,,,? DNA,d
+BseYI,,CCCAGC(-5/-1),NEBuffer™ r3.1,10,50,100,50,80°C,37°C,B,,,,? DNA,d
+BsgI,,GTGCAG(16/14),rCutSmart™ Buffer,25,50,25,100,65°C,37°C,B,,,,? DNA,d
+BsiEI,  ,CGRY/CG,rCutSmart™ Buffer,25,50,<10,100,No,60°C,A,,,,? DNA,1
+BsiHKAI,,GWGCW/C,rCutSmart™ Buffer,25,100,100,100,No,65°C,A,,,,? DNA,
+BsiWI §,  ,C/GTACG,NEBuffer™ r3.1,25,50*,100,25,80°C,55°C,B,,,,?X174 DNA,
+BsiWI-HF®,   ,C/GTACG,rCutSmart™ Buffer,50,100,10,100,80°C,37°C,B,,,,?X174 DNA,
+BslI,   ,CCNNNNN/NNGG,rCutSmart™ Buffer,50,75,100,100,No,37°C,A,,,,? DNA,b
+BsmAI,  ,GTCTC(1/5),rCutSmart™ Buffer,50,100,100,100,No,37°C,B,,,,? DNA,
+BsmBI-v2,   ,CGTCTC,NEBuffer™ r3.1,<10,50,100,25,80°C,55°C,B,,,,? DNA,
+BsmFI,  ,GGGAC(10/14),rCutSmart™ Buffer,25,50,50,100,80°C,37°C,A,,,,pBR322 DNA,1
+BsmI,,GAATGC(1/-1),rCutSmart™ Buffer,25,100,<10,100,80°C,65°C,A,,,,? DNA,
+BsoBI,,C/YCGRG,rCutSmart™ Buffer,25,100,100,100,80°C,37°C,A,,,,? DNA,
+BspCNI,,CTCAG(9/7),rCutSmart™ Buffer,100,75,10,100,80°C,37°C,A,,,,? DNA,b
+BspDI,  ,AT/CGAT,rCutSmart™ Buffer,25,75,50,100,80°C,37°C,A,,,,? DNA,
+BspEI,   ,T/CCGGA,NEBuffer™ r3.1,<10,10,100,<10,80°C,37°C,B,,,,? DNA (dam-),
+BspHI,  ,T/CATGA,rCutSmart™ Buffer,10,50,25,100,80°C,37°C,A,,,,? DNA,
+Bsp1286I,,GDGCH/C,rCutSmart™ Buffer,25,25,25,100,65°C,37°C,A,,,,? DNA,3
+BspMI,,ACCTGC(4/8),NEBuffer™ r3.1,10,50*,100,10,65°C,37°C,B,,,,? DNA,
+BspQI,,GCTCTTC(1/4),NEBuffer™ r3.1,100*,100*,100,100*,80°C,50°C,B,,,,? DNA,3
+BspQI-HF® §,  ,GCTCTTC(1/4),rCutSmart™ Buffer,10,50,25,100,80°C,37°C,B,,,,? DNA,
+BsrBI,  ,CCGCTC(-3/-3),rCutSmart™ Buffer,50,100,100,100,80°C,37°C,A,,,,? DNA,d
+BsrDI,,GCAATG(2/0),NEBuffer™ r2.1,10,100,75,25,80°C,37°C,A,,,,? DNA,"3, d"
+BsrFI-v2,   ,R/CCGGY,rCutSmart™ Buffer,25,25,0,100,No,37°C,C,,,,pBR322 DNA,
+BsrGI-HF®,  ,T/GTACA,rCutSmart™ Buffer,10,100,100,100,80°C,37°C,A,,,,? DNA,
+BsrI,,ACTGG(1/-1),NEBuffer™ r3.1,<10,50,100,10,80°C,65°C,B,,,,?X174 DNA,b
+BssHII,  ,G/CGCGC,rCutSmart™ Buffer,100,100,100,100,65°C,37°C,B,,,,? DNA,
+BssSI-v2,  ,CACGAG(-5/-1),rCutSmart™ Buffer,10,25,<10,100,No,37°C,B,,,,? DNA,
+BstAPI,,GCANNNN/NTGC,rCutSmart™ Buffer,50,100,25,100,80°C,60°C,A,,,,? DNA,b
+BstBI,  ,TT/CGAA,rCutSmart™ Buffer,75,100,10,100,No,65°C,A,,,,? DNA,
+BstEII-HF®,  ,G/GTNACC,rCutSmart™ Buffer,<10,10,<10,100,No,37°C,A,,,,? DNA,
+BstNI,,CC/WGG,NEBuffer™ r3.1,10,100,100,75,No,60°C,A,,,,? DNA,a
+BstUI,  ,CG/CG,rCutSmart™ Buffer,50,100,25,100,No,60°C,A,,,,? DNA,b
+BstXI,  ,CCANNNNN/NTGG,NEBuffer™ r3.1,<10,50,100,25,80°C,37°C,B,,,,? DNA,3
+BstYI,,R/GATCY,rCutSmart™ Buffer,25,100,75,100,No,60°C,A,,,,? DNA,
+BstZ17I-HF®,   ,GTATAC,rCutSmart™ Buffer,100,100,10,100,No,37°C,A,,,,? DNA,
+Bsu36I,,CC/TNAGG,rCutSmart™ Buffer,25,100,100,100,80°C,37°C,C,,,,? DNA (HindIII digest),b
+BtgI,,C/CRYGG,rCutSmart™ Buffer,50,100,100,100,80°C,37°C,B,,,,pBR322 DNA,
+BtgZI,,GCGATG(10/14),rCutSmart™ Buffer,10,25,<10,100,80°C,60°C,A,,,,? DNA,"3, b, d"
+BtsCI,,GGATG(2/0),rCutSmart™ Buffer,10,100,25,100,80°C,50°C,B,,,,? DNA,
+BtsIMutI,,CAGTG(2/0),rCutSmart™ Buffer,100,50,10,100,80°C,55°C,A,,,,pUC19 DNA,b
+BtsI-v2,  ,GCAGTG(2/0),rCutSmart™ Buffer,100,100,25,100,No,37°C,A,,,,? DNA,1
+Cac8I,  ,GCN/NGC,rCutSmart™ Buffer,50,75,100,100,65°C,37°C,B,,,,? DNA,b
+ClaI,   ,AT/CGAT,rCutSmart™ Buffer,10,50,50,100,65°C,37°C,A,,,,? DNA (dam-),
+CspCI,,(11/13)CAANNNNNGTGG(12/10),rCutSmart™ Buffer,10,100,10,100,65°C,37°C,A,,,,? DNA,e
+CviKI-1,,RG/CY,rCutSmart™ Buffer,25,100,100,100,No,37°C,A,,,,pBR322 DNA,"1, b"
+CviQI,,G/TAC,NEBuffer™ r3.1,75,100*,100,75*,No,25°C,C,,,,? DNA,b
+DdeI,,C/TNAG,rCutSmart™ Buffer,75,100,100,100,65°C,37°C,B,,,,? DNA,
+DpnI,  ,GA/TC,rCutSmart™ Buffer,100,100,75,100,80°C,37°C,B,,,,pBR322 DNA (dam methylated),b
+DpnII,  ,/GATC,NEBuffer™ DpnII,25,25,100*,25,65°C,37°C,B,,,,? DNA (dam-),
+DraI,,TTT/AAA,rCutSmart™ Buffer,75,75,50,100,65°C,37°C,A,,,,? DNA,
+DraIII-HF®,   ,CACNNN/GTG,rCutSmart™ Buffer,<10,50,10,100,No,37°C,B,,,,? DNA,b
+DrdI,  ,GACNNNN/NNGTC,rCutSmart™ Buffer,25,50,10,100,65°C,37°C,A,,,,pUC19 DNA,3
+EaeI,  ,Y/GGCCR,rCutSmart™ Buffer,10,50,<10,100,65°C,37°C,A,,,,? DNA,b
+EagI-HF®,   ,C/GGCCG,rCutSmart™ Buffer,25,100,100,100,65°C,37°C,B,,,,pXba DNA,
+EarI,  ,CTCTTC(1/4),rCutSmart™ Buffer,50,10,<10,100,65°C,37°C,B,,,,? DNA,"b, d"
+EciI,,GGCGGA(11/9),rCutSmart™ Buffer,100,50,50,100,65°C,37°C,A,,,,? DNA,2
+Eco53kI,  ,GAG/CTC,rCutSmart™ Buffer,100,100,<10,100,65°C,37°C,A,,,,pXba DNA,"3, b"
+EcoNI,,CCTNN/NNNAGG,rCutSmart™ Buffer,50,100,75,100,65°C,37°C,A,,,,? DNA,b
+EcoO109I,  ,RG/GNCCY,rCutSmart™ Buffer,50,100,50,100,65°C,37°C,A,,,,? DNA (HindIII digest),3
+EcoP15I,,CAGCAG(25/27),NEBuffer™ r3.1 + ATP,75,100,100,100,65°C,37°C,A,,,,pUC19 DNA,e
+EcoRI §,  ,G/AATTC,NEBuffer™ EcoRI/SspI,25,100*,50,50*,65°C,37°C,C,,,,? DNA,
+EcoRI-HF®,   ,G/AATTC,rCutSmart™ Buffer,10,100,<10,100,65°C,37°C,C,,,,? DNA,
+EcoRV §,  ,GAT/ATC,NEBuffer™ r3.1,10,50,100,10,80°C,37°C,A,,,,? DNA,
+EcoRV-HF®,   ,GAT/ATC,rCutSmart™ Buffer,25,100,100,100,65°C,37°C,B,,,,? DNA,
+Esp3I,  ,CGTCTC(1/5),rCutSmart™ Buffer,100,100,<10,100,65°C,37°C,B,,,,? DNA,
+FatI,,/CATG,NEBuffer™ r2.1,10,100,50,50,80°C,55°C,A,,,,pUC19 DNA,
+FauI,,CCCGC(4/6),rCutSmart™ Buffer,100,50,10,100,65°C,55°C,A,,,,? DNA,"3, b, d"
+Fnu4HI,  ,GC/NGC,rCutSmart™ Buffer,<10,<10,<10,100,No,37°C,A,,,,? DNA,a
+FokI,  ,GGATG(9/13),rCutSmart™ Buffer,100,100,75,100,65°C,37°C,A,,,,? DNA,"3, b, d"
+FseI,   ,GGCCGG/CC,rCutSmart™ Buffer,100,75,<10,100,65°C,37°C,B,,,,pBC4 DNA,
+FspI,  ,TGC/GCA,rCutSmart™ Buffer,10,100,10,100,No,37°C,C,,,,? DNA,b
+HaeII,  ,RGCGC/Y,rCutSmart™ Buffer,25,100,10,100,80°C,37°C,A,,,,? DNA,
+HaeIII,,GG/CC,rCutSmart™ Buffer,50,100,25,100,80°C,37°C,A,,,,? DNA,
+HgaI,,GACGC(5/10),NEBuffer™ r1.1,100,100,25,100*,65°C,37°C,A,,,,?X174 DNA,1
+HhaI,  ,GCG/C,rCutSmart™ Buffer,25,100,100,100,65°C,37°C,A,,,,? DNA,
+HincII,  ,GTY/RAC,rCutSmart™ Buffer,25,100,100,100,65°C,37°C,B,,,,? DNA,
+HindIII §,,A/AGCTT,NEBuffer™ r2.1,25,100,50,50,80°C,37°C,B,,,,? DNA,
+HindIII-HF®,  ,A/AGCTT,rCutSmart™ Buffer,10,100,10,100,80°C,37°C,B,,,,? DNA,
+HinfI,  ,G/ANTC,rCutSmart™ Buffer,50,100,100,100,80°C,37°C,A,,,,? DNA,
+HinP1I,  ,G/CGC,rCutSmart™ Buffer,100,100,100,100,65°C,37°C,A,,,,? DNA,
+HpaI,,GTT/AAC,rCutSmart™ Buffer,<10,75*,25,100,No,37°C,A,,,,? DNA,1
+HpaII,  ,C/CGG,rCutSmart™ Buffer,100,50,<10,100,80°C,37°C,A,,,,? DNA,
+HphI,   ,GGTGA(8/7),rCutSmart™ Buffer,50,50,<10,100,65°C,37°C,B,,,,? DNA,"1, b, d"
+HpyAV,  ,CCTTC(6/5),rCutSmart™ Buffer,100,100,25,100,65°C,37°C,,,,,? DNA,"3, b, d"
+HpyCH4III,,ACN/GT,rCutSmart™ Buffer,100,25,<10,100,65°C,37°C,A,,,,? DNA,b
+HpyCH4IV,  ,A/CGT,rCutSmart™ Buffer,100,50,25,100,65°C,37°C,A,,,,pUC19 DNA,
+HpyCH4V,,TG/CA,rCutSmart™ Buffer,50,50,25,100,65°C,37°C,A,,,,? DNA,
+Hpy99I,,CGWCG/,rCutSmart™ Buffer,50,10,<10,100,65°C,37°C,A,,,,? DNA,
+Hpy188I,,TCN/GA,rCutSmart™ Buffer,25,100,50,100,65°C,37°C,A,,,,pBR322 DNA,"1, b"
+Hpy166II,  ,GTN/NAC,rCutSmart™ Buffer,100,100,50,100,65°C,37°C,C,,,,pBR322 DNA,
+Hpy188III,  ,TC/NNGA,rCutSmart™ Buffer,100,100,10,100,65°C,37°C,B,,,,pUC19 DNA,"3, b"
+I-CeuI,,TAACTATAACGGTCCTAAGGTAGCGAA(-9/-13),rCutSmart™ Buffer,10,10,10,100,65°C,37°C,B,,,,pBHS ScaI-linearized Control Plasmid,
+I-SceI,,TAGGGATAACAGGGTAAT(-9/-13),rCutSmart™ Buffer,10,50,25,100,65°C,37°C,B,,,,pGPS2 NotI-linearized Control Plasmid,
+KasI,,G/GCGCC,rCutSmart™ Buffer,50,100,50,100,65°C,37°C,B,,,,pBR322 DNA,3
+KpnI-HF®,  ,GGTAC/C,rCutSmart™ Buffer,100,25,<10,100,No,37°C,A,,,,pXba DNA,
+MboI,  ,/GATC,rCutSmart™ Buffer,75,100,100,100,65°C,37°C,A,,,,? DNA (dam-),
+MboII,  ,GAAGA(8/7),rCutSmart™ Buffer,100*,100,50,100,65°C,37°C,C,,,,? DNA (dam-),b
+MfeI-HF®,  ,C/AATTG,rCutSmart™ Buffer,75,25,<10,100,No,37°C,A,,,,? DNA,
+MluCI,,/AATT,rCutSmart™ Buffer,100,10,10,100,No,37°C,A,,,,? DNA,
+MluI-HF®,   ,A/CGCGT,rCutSmart™ Buffer,25,100,100,100,No,37°C,A,,,,? DNA,
+MlyI,,GAGTC(5/5),rCutSmart™ Buffer,50,50,10,100,65°C,37°C,A,,,,? DNA,"b, d"
+MmeI,  ,TCCRAC(20/18),rCutSmart™ Buffer,50,100,50,100,65°C,37°C,B,,,,?X174 RF I DNA,"b, c"
+MnlI,,CCTC(7/6),rCutSmart™ Buffer,75,100,50,100,65°C,37°C,B,,,,? DNA,b
+MscI,,TGG/CCA,rCutSmart™ Buffer,25,100,100,100,80°C,37°C,C,,,,? DNA,
+MseI,,T/TAA,rCutSmart™ Buffer,75,100,75,100,65°C,37°C,A,,,,? DNA,
+MslI,,CAYNN/NNRTG,rCutSmart™ Buffer,50,50,<10,100,80°C,37°C,A,,,,? DNA,
+MspA1I,  ,CMG/CKG,rCutSmart™ Buffer,10,50,10,100,65°C,37°C,B,,,,? DNA,
+MspI,,C/CGG,rCutSmart™ Buffer,75,100,50,100,No,37°C,A,,,,? DNA,
+MspJI,,CNNR(9/13),rCutSmart™ Buffer + Activator,<10,<10,<10,100,65°C,37°C,B,,,,pBR322 (dcm+) DNA,"1, e"
+MwoI,  ,GCNNNNN/NNGC,rCutSmart™ Buffer,<10,100,100,100,No,60°C,B,,,,? DNA,
+NaeI,,GCC/GGC,rCutSmart™ Buffer,25,25,<10,100,No,37°C,A,,,,pXba DNA,b
+NarI,,GG/CGCC,rCutSmart™ Buffer,100,100,10,100,65°C,37°C,A,,,,pXba DNA,
+Nb.BbvCI,,CCTCAGC(none/-2),rCutSmart™ Buffer,25,100,100,100,80°C,37°C,A,,,,supercoiled plasmid DNA,e
+Nb.BsmI,,GAATGC(none/-1),NEBuffer™ r3.1,<10,50,100,10,80°C,65°C,A,,,,supercoiled plasmid pBR322 DNA,e
+Nb.BsrDI,,GCAATG(none/0),rCutSmart™ Buffer,25,100,100,100,80°C,37°C,A,,,,supercoiled pUC19 DNA,e
+Nb.BssSI,,CACGAG(none/-1),NEBuffer™ r3.1,10,100,100,25,No,37°C,B,,,,supercoiled pUC19 DNA,e
+Nb.BtsI,,GCAGTG(none/0),rCutSmart™ Buffer,75,100,75,100,80°C,37°C,A,,,,supercoiled pUC101 DNA (dam-/dcm-),e
+NciI,  ,CC/SGG,rCutSmart™ Buffer,100,25,10,100,No,37°C,A,,,,? DNA,b
+NcoI §,,C/CATGG,NEBuffer™ r3.1,100,100,100,100+,80°C,37°C,A,,,,? DNA,
+NcoI-HF®,  ,C/CATGG,rCutSmart™ Buffer,50,100,10,100,80°C,37°C,B,,,,? DNA,
+NdeI,,CA/TATG,rCutSmart™ Buffer,75,100,100,100,65°C,37°C,A,,,,? DNA,
+NgoMIV,  ,G/CCGGC,rCutSmart™ Buffer,100,50,10,100,No,37°C,A,,,,pXba DNA,1
+NheI-HF®,   ,G/CTAGC,rCutSmart™ Buffer,100,25,10,100,80°C,37°C,C,,,,? DNA (HindIII digest),
+NlaIII,,CATG/,rCutSmart™ Buffer,<10,<10,<10,100,65°C,37°C,B,,,,?X174 RF I DNA,
+NlaIV,  ,GGN/NCC,rCutSmart™ Buffer,10,10,10,100,65°C,37°C,B,,,,pBR322 DNA,
+NmeAIII,,GCCGAG(21/19),rCutSmart™ Buffer,10,10,<10,100,65°C,37°C,B,,,,?X174 RF I DNA,c
+NotI §,  ,GC/GGCCGC,NEBuffer™ r3.1,<10,50,100,25,65°C,37°C,C,,,,pBC4 DNA,
+NotI-HF®,   ,GC/GGCCGC,rCutSmart™ Buffer,25,100,25,100,65°C,37°C,A,,,,pBC4 DNA,
+NruI-HF®,    ,TCG/CGA,rCutSmart™ Buffer,0,25,50,100,No,37°C,A,,,,? DNA,
+NsiI §,,ATGCA/T,NEBuffer™ r3.1,10,75,100,25,65°C,37°C,B,,,,? DNA,
+NsiI-HF®,  ,ATGCA/T,rCutSmart™ Buffer,<10,20,<10,100,80°C,37°C,B,,,,? DNA,
+NspI,,RCATG/Y,rCutSmart™ Buffer,100,100,<10,100,65°C,37°C,A,,,,? DNA,
+Nt.AlwI,,GGATC(4/none),rCutSmart™ Buffer,10,100,100,100,80°C,37°C,A,,,,pUC101 DNA (dam-/dcm-),e
+Nt.BbvCI,,CCTCAGC(-5/none),rCutSmart™ Buffer,50,100,10,100,80°C,37°C,A,,,,supercoiled plasmid DNA,e
+Nt.BsmAI,,GTCTC(1/none),rCutSmart™ Buffer,100,50,10,100,65°C,37°C,A,,,,supercoiled plasmid DNA,e
+Nt.BspQI,,GCTCTTC(1/none),NEBuffer™ r3.1,<10,25,100,10,80°C,50°C,B,,,,supercoiled pUC19 DNA,e
+Nt.BstNBI,,GAGTC(4/none),NEBuffer™ r3.1,0,10,100,10,80°C,55°C,A,,,,T7 DNA,e
+Nt.CviPII,,CCD(-3/none),rCutSmart™ Buffer,10,100,25,100,65°C,37°C,A,,,,pUC19 DNA,e
+PacI,,TTAAT/TAA,rCutSmart™ Buffer,100,75,10,100,65°C,37°C,A,,,,pNEB193 DNA,
+PaeR7I,  ,C/TCGAG,rCutSmart™ Buffer,25,100,10,100,No,37°C,A,,,,? DNA (HindIII digest),
+PaqCI,,CACCTGC(4/8),rCutSmart™ Buffer + Activator,10,100,10,100,65°C,37°C,B,,,,? DNA,1
+PciI,,A/CATGT,NEBuffer™ r3.1,50,75,100,50*,80°C,37°C,B,,,,pXba DNA,
+PflFI,,GACN/NNGTC,rCutSmart™ Buffer,25,100,25,100,65°C,37°C,A,,,,pBC4 DNA,b
+PflMI,  ,CCANNNN/NTGG,NEBuffer™ r3.1,0,100,100,50,65°C,37°C,A,,,,? DNA,"3, b, d"
+PI-PspI,,TGGCAAACAGCTATTATGGGTATTATGGGT(-13/-17),NEBuffer™ PI-PspI + rAlbumin,10,10,10,10,No,65°C,B,,,,pAKR7 XmnI-linearized Control Plasmid,
+PI-SceI,,ATCTATGTCGGGTGCGGAGAAAGAGGTAAT(-15/-19),NEBuffer™ PI-SceI + rAlbumin,10,10,10,10,65°C,37°C,B,,,,pBSvdeX XmnI-linearized Control Plasmid,
+PleI,,GAGTC(4/5),rCutSmart™ Buffer,25,50,25,100,65°C,37°C,A,,,,? DNA,"b, d"
+PluTI,,GGCGC/C,rCutSmart™ Buffer,100,25,<10,100,65°C,37°C,A,,,,pXba DNA,b
+PmeI,  ,GTTT/AAAC,rCutSmart™ Buffer,<10,50,10,100,65°C,37°C,A,,,,? DNA,
+PmlI,  ,CAC/GTG,rCutSmart™ Buffer,100,50,<10,100,65°C,37°C,A,,,,? DNA (HindIII digest) DNA,
+PpuMI,  ,RG/GWCCY,rCutSmart™ Buffer,<10,<10,<10,100,No,37°C,B,,,,? DNA (HindIII digest),
+PshAI,  ,GACNN/NNGTC,rCutSmart™ Buffer,25,50,10,100,65°C,37°C,A,,,,? DNA,
+PsiI-v2,  ,TTA/TAA,rCutSmart™ Buffer,25,50,10,100,65°C,37°C,B,,,,? DNA,3
+PspGI,,/CCWGG,rCutSmart™ Buffer,25,100,50,100,No,75°C,A,,,,T7 DNA,3
+PspOMI,  ,G/GGCCC,rCutSmart™ Buffer,10,10,<10,100,65°C,37°C,B,,,,pXba DNA,
+PspXI,,VC/TCGAGB,rCutSmart™ Buffer,<10,100,25,100,No,37°C,B,,,,? DNA (HindIII digest),
+PstI §,,CTGCA/G,NEBuffer™ r3.1,75,75,100,50*,80°C,37°C,C,,,,? DNA,
+PstI-HF®,  ,CTGCA/G,rCutSmart™ Buffer,10,75,50,100,No,37°C,C,,,,? DNA,
+PvuI-HF®,   ,CGAT/CG,rCutSmart™ Buffer,25,100,100,100,No,37°C,B,,,,pXba DNA,
+PvuII §,,CAG/CTG,NEBuffer™ r3.1,50,100,100,100*,No,37°C,B,,,,? DNA,
+PvuII-HF®,  ,CAG/CTG,rCutSmart™ Buffer,<10,<10,<10,100,No,37°C,B,,,,? DNA,
+RsaI,  ,GT/AC,rCutSmart™ Buffer,25,50,<10,100,No,37°C,A,,,,? DNA,
+RsrII,,CG/GWCCG,rCutSmart™ Buffer,25,75,10,100,65°C,37°C,C,,,,? DNA,
+SacI-HF®,   ,GAGCT/C,rCutSmart™ Buffer,10,50,<10,100,65°C,37°C,A,,,,? DNA (HindIII digest),
+SacII,  ,CCGC/GG,rCutSmart™ Buffer,10,100,10,100,65°C,37°C,A,,,,pXba DNA,
+SalI §,  ,G/TCGAC,NEBuffer™ r3.1,<10,<10,100,<10,65°C,37°C,A,,,,? DNA (HindIII digest),
+SalI-HF®,   ,G/TCGAC,rCutSmart™ Buffer,10,100,100,100,65°C,37°C,A,,,,? DNA (HindIII digest),
+SapI,,GCTCTTC(1/4),rCutSmart™ Buffer,75,50,<10,100,65°C,37°C,B,,,,? DNA,
+Sau3AI,,/GATC,NEBuffer™ r1.1,100,50,10,100+,65°C,37°C,A,,,,? DNA,b
+Sau96I,  ,G/GNCC,rCutSmart™ Buffer,50,100,100,100,65°C,37°C,A,,,,? DNA,
+SbfI-HF®,  ,CCTGCA/GG,rCutSmart™ Buffer,50,25,<10,100,80°C,37°C,B,,,,? DNA,
+ScaI-HF®,  ,AGT/ACT,rCutSmart™ Buffer,100,100,10,100,80°C,37°C,B,,,,? DNA,
+ScrFI,  ,CC/NGG,rCutSmart™ Buffer,100,100,100,100,65°C,37°C,C,,,,? DNA,"2, a"
+SexAI,,A/CCWGGT,rCutSmart™ Buffer,100,75,50,100,65°C,37°C,A,,,,pBC4 DNA (dcm-),"3, b, d"
+SfaNI,,GCATC(5/9),NEBuffer™ r3.1,<10,75,100,25,65°C,37°C,B,,,,?X174 RF I DNA,"3, b"
+SfcI,,C/TRYAG,rCutSmart™ Buffer,75,50,25,100,65°C,37°C,B,,,,? DNA,3
+SfiI,   ,GGCCNNNN/NGGCC,rCutSmart™ Buffer,25,100,50,100,No,50°C,C,,,,pXba DNA,
+SfoI,   ,GGC/GCC,rCutSmart™ Buffer,50,100,100,100,No,37°C,B,,,,? DNA (HindIII digest),
+SgrAI,,CR/CCGGYG,rCutSmart™ Buffer,100,100,10,100,65°C,37°C,A,,,,? DNA,1
+SmaI,  ,CCC/GGG,rCutSmart™ Buffer,<10,<10,<10,100,65°C,37°C,B,,,,? DNA (HindIII digest),b
+SmlI,,C/TYRAG,rCutSmart™ Buffer,25,75,25,100,No,55°C,A,,,,? DNA,b
+SnaBI,,TAC/GTA,rCutSmart™ Buffer,50*,50,10,100,80°C,37°C,A,,,,T7 DNA,1
+SpeI-HF®,  ,A/CTAGT,rCutSmart™ Buffer,25,50,10,100,80°C,37°C,C,,,,pXba-XbaI DNA,
+SphI §,,GCATG/C,NEBuffer™ r2.1,100,100,50,100+,65°C,37°C,B,,,,? DNA,2
+SphI-HF®,  ,GCATG/C,rCutSmart™ Buffer,50,25,10,100,65°C,37°C,B,,,,? DNA,
+SrfI,  ,GCCC/GGGC,rCutSmart™ Buffer,10,50,0,100,65°C,37°C,B,,,,pNEB193-SrfI DNA,
+SspI-HF®,  ,AAT/ATT,rCutSmart™ Buffer,25,100,<10,100,65°C,37°C,B,,,,? DNA,
+StuI,  ,AGG/CCT,rCutSmart™ Buffer,50,100,50,100,No,37°C,A,,,,? DNA,
+StyD4I,   ,/CCNGG,rCutSmart™ Buffer,10,100,100,100,65°C,37°C,B,,,,? DNA,
+StyI-HF®,  ,C/CWWGG,rCutSmart™ Buffer,25,100,25,100,65°C,37°C,A,,,,? DNA,
+SwaI,,ATTT/AAAT,NEBuffer™ r3.1,10,10,100,10,65°C,25°C,B,,,,pXba DNA,"b, d"
+TaqI-v2,   ,T/CGA,rCutSmart™ Buffer,50,100,50,100,No,65°C,B,,,,? DNA,
+TfiI,  ,G/AWTC,rCutSmart™ Buffer,50,100,100,100,No,65°C,C,,,,? DNA,
+TseI,  ,G/CWGC,rCutSmart™ Buffer,75,100,100,100,No,65°C,B,,,,? DNA,3
+Tsp45I,,/GTSAC,rCutSmart™ Buffer,100,50,<10,100,No,65°C,A,,,,? DNA,
+TspMI,  ,C/CCGGG,rCutSmart™ Buffer,50*,75*,50*,100,No,75°C,B,,,,pBC4 DNA,d
+TspRI,,NNCASTGNN/,rCutSmart™ Buffer,25,50,25,100,No,65°C,B,,,,? DNA,
+Tth111I,,GACN/NNGTC,rCutSmart™ Buffer,25,100,25,100,No,65°C,B,,,,pBC4 DNA,b
+WarmStart® Nt.BstNBI,,GAGTC(4/none),NEBuffer™ r3.1,0,10,100,25,80°C,55°C,A,,,,T7 DNA,
+XbaI,  ,T/CTAGA,rCutSmart™ Buffer,<10,100,75,100,65°C,37°C,A,,,,? DNA (dam-/Hind III digest),
+XcmI,,CCANNNNN/NNNNTGG,NEBuffer™ r2.1,10,100,25,100*,65°C,37°C,C,,,,? DNA,2
+XhoI,  ,C/TCGAG,rCutSmart™ Buffer,75,100,100,100,65°C,37°C,A,,,,? DNA (HindIII digest),b
+XmaI,  ,C/CCGGG,rCutSmart™ Buffer,25,50,<10,100,65°C,37°C,A,,,,pXba DNA,3
+XmnI,,GAANN/NNTTC,rCutSmart™ Buffer,50,75,<10,100,65°C,37°C,A,,,,? DNA,b
+ZraI,,GAC/GTC,rCutSmart™ Buffer,100,25,10,100,80°C,37°C,B,,,,? DNA,
